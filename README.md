@@ -11,8 +11,6 @@ This project focuses on finding the shortest path in unweighted graphs using fun
 3. [Requirements](#requirements)
 4. [Usage](#usage)
 5. [Example](#example)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
