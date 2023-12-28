@@ -1,4 +1,3 @@
-# Shortest-path-of-unweighted-graphs-using-DSA-concepts
 # Shortest Path in Unweighted Graphs using Data Structures and Algorithms (DSA) Concepts
 
 ## Overview
